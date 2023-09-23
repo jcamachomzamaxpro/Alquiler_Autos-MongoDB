@@ -1,0 +1,53 @@
+[
+    {
+      "_id": { "$oid": "650b2fca1d03d104a0da5901" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5901" },
+      "Cantidad_Disponible": 7
+    },
+    {
+      "_id": { "$oid": "650b2fca1d03d104a0da5902" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5902" },
+      "Cantidad_Disponible": 9
+    },
+    {
+      "_id": { "$oid": "650b2fca1d03d104a0da5903" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5903" },
+      "Cantidad_Disponible": 5
+    },
+    {
+      "_id": { "$oid": "650b2fca1d03d104a0da5904" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5904" },
+      "Cantidad_Disponible": 8
+    },
+    {
+      "_id": { "$oid": "650b2fca1d03d104a0da5905" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5905" },
+      "Cantidad_Disponible": 6
+    },
+    {
+      "_id": { "$oid": "650b2fca1d03d104a0da5906" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5906" },
+      "Cantidad_Disponible": 10
+    },
+    {
+      "_id": { "$oid": "650b2fca1d03d104a0da5907" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5907" },
+      "Cantidad_Disponible": 3
+    },
+    {
+      "_id": { "$oid": "650b2fca1d03d104a0da5908" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5908" },
+      "Cantidad_Disponible": 12
+    },
+    {
+      "_id": { "$oid": "650b2fca1d03d104a0da5909" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5909" },
+      "Cantidad_Disponible": 4
+    },
+    {
+      "_id": { "$oid": "650b2fca1d03d104a0da5910" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5910" },
+      "Cantidad_Disponible": 7
+    }
+  ]
+  

@@ -1,0 +1,103 @@
+[
+    {
+      "_id": { "$oid": "650c24b39a7a14891553cb01" },
+      "Nombre": "María",
+      "Apellido": "González",
+      "DNI": "70234567D",
+      "Direccion": "Calle 123, Piso 2, Oficina 5",
+      "Telefono": "555-111-222",
+      "Cargo": "Gerente",
+      "Password": "maria123"
+    },
+    {
+      "_id": { "$oid": "650c24b39a7a14891553cb02" },
+      "Nombre": "Luis",
+      "Apellido": "Martínez",
+      "DNI": "80567890A",
+      "Direccion": "Avenida 456, Piso 3, Oficina 10",
+      "Telefono": "555-222-333",
+      "Cargo": "Asistente Administrativo",
+      "Password": "luis456"
+    },
+    {
+      "_id": { "$oid": "650c24b39a7a14891553cb03" },
+      "Nombre": "David",
+      "Apellido": "Sánchez",
+      "DNI": "90890123B",
+      "Direccion": "Calle 789, Piso 1, Oficina 3",
+      "Telefono": "555-333-444",
+      "Cargo": "Contador",
+      "Password": "david789"
+    },
+    {
+      "_id": { "$oid": "650c24b39a7a14891553cb04" },
+      "Nombre": "Laura",
+      "Apellido": "López",
+      "DNI": "80123456C",
+      "Direccion": "Avenida 567, Piso 2, Oficina 8",
+      "Telefono": "555-444-555",
+      "Cargo": "Analista de Ventas",
+      "Password": "laura987"
+    },
+    {
+      "_id": { "$oid": "650c24b39a7a14891553cb05" },
+      "Nombre": "Javier",
+      "Apellido": "Fernández",
+      "DNI": "70456789E",
+      "Direccion": "Calle 890, Piso 2, Oficina 12",
+      "Telefono": "555-555-666",
+      "Cargo": "Recepcionista",
+      "Password": "javier456"
+    },
+    {
+      "_id": { "$oid": "650c24b39a7a14891553cb06" },
+      "Nombre": "Marta",
+      "Apellido": "Gómez",
+      "DNI": "60678901F",
+      "Direccion": "Avenida 678, Piso 1, Oficina 6",
+      "Telefono": "555-666-777",
+      "Cargo": "Analista de Marketing",
+      "Password": "marta789"
+    },
+    {
+      "_id": { "$oid": "650c24b39a7a14891553cb07" },
+      "Nombre": "Andrés",
+      "Apellido": "Hernández",
+      "DNI": "50901234G",
+      "Direccion": "Calle 901, Piso 3, Oficina 15",
+      "Telefono": "555-777-888",
+      "Cargo": "Desarrollador de Software",
+      "Password": "andres123"
+    },
+    {
+      "_id": { "$oid": "650c24b39a7a14891553cb08" },
+      "Nombre": "Sofía",
+      "Apellido": "Pérez",
+      "DNI": "40234567H",
+      "Direccion": "Avenida 890, Piso 2, Oficina 9",
+      "Telefono": "555-888-999",
+      "Cargo": "Analista de Recursos Humanos",
+      "Password": "sofia456"
+    },
+    {
+      "_id": { "$oid": "650c24b39a7a14891553cb09" },
+      "Nombre": "Diego",
+      "Apellido": "García",
+      "DNI": "30456789J",
+      "Direccion": "Calle 234, Piso 1, Oficina 7",
+      "Telefono": "555-999-000",
+      "Cargo": "Analista Financiero",
+      "Password": "diego789"
+    },
+    {
+      "_id": { "$oid": "650c24b39a7a14891553cb10" },
+      "Nombre": "Ana",
+      "Apellido": "Fernández",
+      "DNI": "20567890K",
+      "Direccion": "Avenida 345, Piso 2, Oficina 11",
+      "Telefono": "555-000-111",
+      "Cargo": "Asistente de Ventas",
+      "Password": "ana456"
+    }
+  ]
+  

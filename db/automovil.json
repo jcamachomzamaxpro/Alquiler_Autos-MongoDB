@@ -1,0 +1,93 @@
+[
+    {
+      "_id": { "$oid": "650b31711d03d104a0da5901" },
+      "Marca": "Toyota",
+      "Modelo": "Corolla",
+      "Anio": 2022,
+      "Tipo": "Sedán",
+      "Capacidad": 5,
+      "Precio_Diario": 120000
+    },
+    {
+      "_id": { "$oid": "650b31711d03d104a0da5902" },
+      "Marca": "Honda",
+      "Modelo": "Civic",
+      "Anio": 2021,
+      "Tipo": "Sedán",
+      "Capacidad": 5,
+      "Precio_Diario": 130000
+    },
+    {
+      "_id": { "$oid": "650b31711d03d104a0da5903" },
+      "Marca": "Ford",
+      "Modelo": "Mustang",
+      "Anio": 2020,
+      "Tipo": "Cupé",
+      "Capacidad": 4,
+      "Precio_Diario": 160000
+    },
+    {
+      "_id": { "$oid": "650b31711d03d104a0da5904" },
+      "Marca": "Chevrolet",
+      "Modelo": "Camaro",
+      "Anio": 2021,
+      "Tipo": "Cupé",
+      "Capacidad": 4,
+      "Precio_Diario": 155000
+    },
+    {
+      "_id": { "$oid": "650b31711d03d104a0da5905" },
+      "Marca": "Volkswagen",
+      "Modelo": "Golf",
+      "Anio": 2020,
+      "Tipo": "Hatchback",
+      "Capacidad": 5,
+      "Precio_Diario": 110000
+    },
+    {
+      "_id": { "$oid": "650b31711d03d104a0da5906" },
+      "Marca": "Audi",
+      "Modelo": "A4",
+      "Anio": 2022,
+      "Tipo": "Sedán",
+      "Capacidad": 5,
+      "Precio_Diario": 140000
+    },
+    {
+      "_id": { "$oid": "650b31711d03d104a0da5907" },
+      "Marca": "Mercedes-Benz",
+      "Modelo": "C-Class",
+      "Anio": 2021,
+      "Tipo": "Sedán",
+      "Capacidad": 5,
+      "Precio_Diario": 150000
+    },
+    {
+      "_id": { "$oid": "650b31711d03d104a0da5908" },
+      "Marca": "BMW",
+      "Modelo": "3 Series",
+      "Anio": 2022,
+      "Tipo": "Sedán",
+      "Capacidad": 5,
+      "Precio_Diario": 145000
+    },
+    {
+      "_id": { "$oid": "650b31711d03d104a0da5909" },
+      "Marca": "Subaru",
+      "Modelo": "Impreza",
+      "Anio": 2021,
+      "Tipo": "Hatchback",
+      "Capacidad": 5,
+      "Precio_Diario": 115000
+    },
+    {
+      "_id": { "$oid": "650b31711d03d104a0da5910" },
+      "Marca": "Mazda",
+      "Modelo": "CX-5",
+      "Anio": 2022,
+      "Tipo": "SUV",
+      "Capacidad": 5,
+      "Precio_Diario": 125000
+    }
+  ]
+  

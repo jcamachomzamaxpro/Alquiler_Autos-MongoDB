@@ -1,0 +1,63 @@
+[
+    {
+      "_id": { "$oid": "650b2ef91d03d104a0da5921" },
+      "Nombre": "Sucursal Central",
+      "Direccion": "Avenida Principal #123, Ciudad Capital, CP 10001",
+      "Telefono": "345-456-7890"
+    },
+    {
+      "_id": { "$oid": "650b2ef91d03d104a0da5922" },
+      "Nombre": "Sucursal Avenida Norte",
+      "Direccion": "Avenida Norte #567, Zona 5, Ciudad Capital, CP 10002",
+      "Telefono": "321-567-8901"
+    },
+    {
+      "_id": { "$oid": "650b2ef91d03d104a0da5923" },
+      "Nombre": "Sucursal Zona 10",
+      "Direccion": "Avenida Reforma #789, Zona 10, Ciudad Capital, CP 10003",
+      "Telefono": "378-678-9012"
+    },
+    {
+      "_id": { "$oid": "650b2ef91d03d104a0da5924" },
+      "Nombre": "Sucursal Mixco",
+      "Direccion": "Boulevard San Cristóbal, Km 15, Zona 3, Mixco, CP 10101",
+      "Telefono": "398-789-0123"
+    },
+    {
+      "_id": { "$oid": "650b2ef91d03d104a0da5925" },
+      "Nombre": "Sucursal Villa Nueva",
+      "Direccion": "Calle del Comercio, Zona 6, Villa Nueva, CP 10201",
+      "Telefono": "345-890-1234"
+    },
+    {
+      "_id": { "$oid": "650b2ef91d03d104a0da5926" },
+      "Nombre": "Sucursal Escuintla",
+      "Direccion": "Avenida de los Volcanes #432, Escuintla, CP 03001",
+      "Telefono": "312-901-2345"
+    },
+    {
+      "_id": { "$oid": "650b2ef91d03d104a0da5927" },
+      "Nombre": "Sucursal Chimaltenango",
+      "Direccion": "Calle Principal #876, Chimaltenango, CP 04001",
+      "Telefono": "399-012-3456"
+    },
+    {
+      "_id": { "$oid": "650b2ef91d03d104a0da5928" },
+      "Nombre": "Sucursal Quetzaltenango",
+      "Direccion": "Avenida de los Altos #789, Quetzaltenango, CP 09001",
+      "Telefono": "387-123-4567"
+    },
+    {
+      "_id": { "$oid": "650b2ef91d03d104a0da5929" },
+      "Nombre": "Sucursal Cobán",
+      "Direccion": "Calle de las Verapaces #234, Cobán, CP 16001",
+      "Telefono": "399-234-5678"
+    },
+    {
+      "_id": { "$oid": "650b2ef91d03d104a0da5930" },
+      "Nombre": "Sucursal Petén",
+      "Direccion": "Avenida de la Selva #876, Flores, CP 17001",
+      "Telefono": "345-345-6789"
+    }
+  ]
+  

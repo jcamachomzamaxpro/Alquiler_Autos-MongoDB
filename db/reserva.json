@@ -1,0 +1,93 @@
+[
+    {
+      "_id": { "$oid": "650b32311d03d104a0da5901" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb01" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5901" },
+      "Fecha_Reserva": "2023-09-20",
+      "Fecha_Inicio": "2023-09-22",
+      "Fecha_Fin": "2023-09-25",
+      "Estado": "Pendiente"
+    },
+    {
+      "_id": { "$oid": "650b32311d03d104a0da5902" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb02" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5902" },
+      "Fecha_Reserva": "2023-09-21",
+      "Fecha_Inicio": "2023-09-23",
+      "Fecha_Fin": "2023-09-26",
+      "Estado": "Pendiente"
+    },
+    {
+      "_id": { "$oid": "650b32311d03d104a0da5903" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb03" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5903" },
+      "Fecha_Reserva": "2023-09-22",
+      "Fecha_Inicio": "2023-09-24",
+      "Fecha_Fin": "2023-09-27",
+      "Estado": "Pendiente"
+    },
+    {
+      "_id": { "$oid": "650b32311d03d104a0da5904" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb04" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5904" },
+      "Fecha_Reserva": "2023-09-23",
+      "Fecha_Inicio": "2023-09-25",
+      "Fecha_Fin": "2023-09-28",
+      "Estado": "Pendiente"
+    },
+    {
+      "_id": { "$oid": "650b32311d03d104a0da5905" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb05" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5905" },
+      "Fecha_Reserva": "2023-09-24",
+      "Fecha_Inicio": "2023-09-26",
+      "Fecha_Fin": "2023-09-29",
+      "Estado": "Pendiente"
+    },
+    {
+      "_id": { "$oid": "650b32311d03d104a0da5906" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb06" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5906" },
+      "Fecha_Reserva": "2023-09-25",
+      "Fecha_Inicio": "2023-09-27",
+      "Fecha_Fin": "2023-09-30",
+      "Estado": "Pendiente"
+    },
+    {
+      "_id": { "$oid": "650b32311d03d104a0da5907" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb07" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5907" },
+      "Fecha_Reserva": "2023-09-26",
+      "Fecha_Inicio": "2023-09-28",
+      "Fecha_Fin": "2023-10-01",
+      "Estado": "Pendiente"
+    },
+    {
+      "_id": { "$oid": "650b32311d03d104a0da5908" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb08" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5908" },
+      "Fecha_Reserva": "2023-09-27",
+      "Fecha_Inicio": "2023-09-29",
+      "Fecha_Fin": "2023-10-02",
+      "Estado": "Pendiente"
+    },
+    {
+      "_id": { "$oid": "650b32311d03d104a0da5909" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb09" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5909" },
+      "Fecha_Reserva": "2023-09-28",
+      "Fecha_Inicio": "2023-09-30",
+      "Fecha_Fin": "2023-10-03",
+      "Estado": "Pendiente"
+    },
+    {
+      "_id": { "$oid": "650b32311d03d104a0da5910" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb10" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5910" },
+      "Fecha_Reserva": "2023-09-29",
+      "Fecha_Inicio": "2023-10-01",
+      "Fecha_Fin": "2023-10-04",
+      "Estado": "Pendiente"
+    }
+  ]
+  

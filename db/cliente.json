@@ -1,0 +1,93 @@
+[
+    {
+      "_id": { "$oid": "650c24199a7a14891553cb01" },
+      "Nombre": "Carlos",
+      "Apellido": "González",
+      "DNI": "70234567",
+      "Direccion": "Calle 123",
+      "Telefono": "555-789-012",
+      "Email": "carlos.gonzalez@example.com"
+    },
+    {
+      "_id": { "$oid": "650c24199a7a14891553cb02" },
+      "Nombre": "Laura",
+      "Apellido": "Martínez",
+      "DNI": "80567890",
+      "Direccion": "Avenida 456",
+      "Telefono": "555-234-567",
+      "Email": "laura.martinez@example.com"
+    },
+    {
+      "_id": { "$oid": "650c24199a7a14891553cb03" },
+      "Nombre": "Pedro",
+      "Apellido": "Sánchez",
+      "DNI": "90890123",
+      "Direccion": "Calle 789",
+      "Telefono": "555-678-901",
+      "Email": "pedro.sanchez@example.com"
+    },
+    {
+      "_id": { "$oid": "650c24199a7a14891553cb04" },
+      "Nombre": "María",
+      "Apellido": "López",
+      "DNI": "80123456",
+      "Direccion": "Avenida 567",
+      "Telefono": "555-123-456",
+      "Email": "maria.lopez@example.com"
+    },
+    {
+      "_id": { "$oid": "650c24199a7a14891553cb05" },
+      "Nombre": "Andrés",
+      "Apellido": "Fernández",
+      "DNI": "70456789",
+      "Direccion": "Calle 890",
+      "Telefono": "555-345-678",
+      "Email": "andres.fernandez@example.com"
+    },
+    {
+      "_id": { "$oid": "650c24199a7a14891553cb06" },
+      "Nombre": "Luisa",
+      "Apellido": "Gómez",
+      "DNI": "60678901",
+      "Direccion": "Avenida 678",
+      "Telefono": "555-567-890",
+      "Email": "luisa.gomez@example.com"
+    },
+    {
+      "_id": { "$oid": "650c24199a7a14891553cb07" },
+      "Nombre": "Daniel",
+      "Apellido": "Hernández",
+      "DNI": "50901234",
+      "Direccion": "Calle 901",
+      "Telefono": "555-456-789",
+      "Email": "daniel.hernandez@example.com"
+    },
+    {
+      "_id": { "$oid": "650c24199a7a14891553cb08" },
+      "Nombre": "Sofía",
+      "Apellido": "Pérez",
+      "DNI": "40234567",
+      "Direccion": "Avenida 890",
+      "Telefono": "555-567-123",
+      "Email": "sofia.perez@example.com"
+    },
+    {
+      "_id": { "$oid": "650c24199a7a14891553cb09" },
+      "Nombre": "Diego",
+      "Apellido": "García",
+      "DNI": "30456789",
+      "Direccion": "Calle 234",
+      "Telefono": "555-678-234",
+      "Email": "diego.garcia@example.com"
+    },
+    {
+      "_id": { "$oid": "650c24199a7a14891553cb10" },
+      "Nombre": "Ana",
+      "Apellido": "Fernández",
+      "DNI": "20567890",
+      "Direccion": "Avenida 345",
+      "Telefono": "555-789-345",
+      "Email": "ana.fernandez@example.com"
+    }
+  ]
+  

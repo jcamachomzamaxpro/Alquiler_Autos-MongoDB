@@ -1,0 +1,93 @@
+[
+    {
+      "_id": { "$oid": "650c23a49a7a14891553caea" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb01" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5901" },
+      "Fecha_Inicio": "2023-09-28",
+      "Fecha_Fin": "2023-10-01",
+      "Costo_Total": 390,
+      "Estado": "Finalizado"
+    },
+    {
+      "_id": { "$oid": "650c23a49a7a14891553caeb" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb02" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5902" },
+      "Fecha_Inicio": "2023-09-28",
+      "Fecha_Fin": "2023-10-01",
+      "Costo_Total": 420,
+      "Estado": "Finalizado"
+    },
+    {
+      "_id": { "$oid": "650c23a49a7a14891553caec" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb03" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5903" },
+      "Fecha_Inicio": "2023-09-29",
+      "Fecha_Fin": "2023-10-02",
+      "Costo_Total": 360,
+      "Estado": "Finalizado"
+    },
+    {
+      "_id": { "$oid": "650c23a49a7a14891553caed" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb04" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5904" },
+      "Fecha_Inicio": "2023-09-29",
+      "Fecha_Fin": "2023-10-02",
+      "Costo_Total": 480,
+      "Estado": "Finalizado"
+    },
+    {
+      "_id": { "$oid": "650c23a49a7a14891553caee" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb05" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5905" },
+      "Fecha_Inicio": "2023-09-30",
+      "Fecha_Fin": "2023-10-03",
+      "Costo_Total": 330,
+      "Estado": "Finalizado"
+    },
+    {
+      "_id": { "$oid": "650c23a49a7a14891553caef" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb06" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5906" },
+      "Fecha_Inicio": "2023-09-30",
+      "Fecha_Fin": "2023-10-03",
+      "Costo_Total": 400,
+      "Estado": "Finalizado"
+    },
+    {
+      "_id": { "$oid": "650c23a49a7a14891553caf0" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb07" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5907" },
+      "Fecha_Inicio": "2023-10-01",
+      "Fecha_Fin": "2023-10-04",
+      "Costo_Total": 360,
+      "Estado": "Finalizado"
+    },
+    {
+      "_id": { "$oid": "650c23a49a7a14891553caf1" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb08" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5908" },
+      "Fecha_Inicio": "2023-10-02",
+      "Fecha_Fin": "2023-10-05",
+      "Costo_Total": 480,
+      "Estado": "Finalizado"
+    },
+    {
+      "_id": { "$oid": "650c23a49a7a14891553caf2" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb09" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5909" },
+      "Fecha_Inicio": "2023-10-03",
+      "Fecha_Fin": "2023-10-06",
+      "Costo_Total": 420,
+      "Estado": "Finalizado"
+    },
+    {
+      "_id": { "$oid": "650c23a49a7a14891553caf3" },
+      "ID_Cliente": { "$oid": "650c24199a7a14891553cb10" },
+      "ID_Automovil": { "$oid": "650b31711d03d104a0da5910" },
+      "Fecha_Inicio": "2023-10-04",
+      "Fecha_Fin": "2023-10-07",
+      "Costo_Total": 390,
+      "Estado": "Finalizado"
+    }
+  ]
+  
